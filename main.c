@@ -2,7 +2,8 @@
 
 int main()
 {
-	printf("konnichiwa + hello");
+    x=2020;
+    printf("konnichiwa + hello");
 
     return 0;
 }
